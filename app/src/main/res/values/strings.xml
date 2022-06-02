@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaLabsUniversity</string>
+    <string name="chooseSpies">Choose a Spi</string>
+    <string-array name="totallySpies">
+        <item>Sam</item>
+        <item>Clover</item>
+        <item>Alex</item>
+        <item>The Team</item>
+    </string-array>
+</resources>
